@@ -1,46 +1,82 @@
-# Getting Started with Create React App
+# brmoney
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brcaua/brmoney?color=ff512f&style=flat-square">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/brcaua/brmoney?color=ff512f&style=flat-square">
+  <a href="https://opensource.org/licenses/MIT">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-ff512f?style=flat-square">
+  </a>
+  
+</p>
 
-## Available Scripts
+<img align="right" src="src/assets/logo.svg" width="35%" alt="brmoney">
 
-In the project directory, you can run:
+## Tópicos 
 
-### `yarn start`
+[About brmoney](#about-brmoney)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[Technologies](#techonoliges)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[How to run](#how-to-run)
 
-### `yarn test`
+[Licence](#licence)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br>
 
-### `yarn build`
+## About brmoney
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The brmoney is a simple and effective alternative to manage your finances, allowing you to register entries, exits and organize them into categories.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="center">
+  <img src="./src/assets/homepage.png" alt="Página inicial">
+</p>
 
-### `yarn eject`
+## Technologies
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Technologies used:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
+- [MirageJS](https://miragejs.com/)
+- [Axios](https://github.com/axios/axios)
+- [Polished](https://polished.js.org/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<br>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## How to use
 
-## Learn More
+```bash
+# Open the terminal and paste the follow command
+git clone https://github.com/martins-rafael/dtmoney.git
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Open the past
+cd dtmoney
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Install the dependencies
+yarn install
+
+# Run the app
+yarn start
+```
+
+<br>
+
+
+## Licence
+<a href="https://opensource.org/licenses/MIT">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-ff512f?style=flat-square">
+</a>
+
+<br>
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+
+---
+
+Feito com :orange_heart: by [Breno Pereira](https://github.com/brcaua)
+
+[![Linkedin Badge](https://img.shields.io/badge/-BrenoPereira-ff512f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno3g/)](https://www.linkedin.com/in/rafaeldcmartins/) 
+[![Gmail Badge](https://img.shields.io/badge/-breno.pereira.dev@gmail.com-ff512f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:breno.pereira.dev@gmail.com)](mailto:rafaeldcmartins@gmail.com)
