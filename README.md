@@ -1,4 +1,4 @@
-# brmoney
+# brmoney (in development)
 
 <p>
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brcaua/brmoney?color=ff512f&style=flat-square">
@@ -8,8 +8,6 @@
   </a>
   
 </p>
-
-<img align="right" src="src/assets/logo.svg" width="35%" alt="brmoney">
 
 ## Tópicos 
 
